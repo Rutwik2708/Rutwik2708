@@ -18,7 +18,7 @@ Let’s connect to chat about **new opportunities** or simply exchange ideas in 
 2. **Visual Analytics for Emergency Response**  
     *Building visualization tools to assist emergency responders in decision-making.*
 
-Feel free to check out more of my [Projects](https://github.com/yourusername?tab=repositories) and see what I’ve been working on!
+Feel free to check out more of my [Projects](https://github.com/Rutwik2708?tab=repositories) and see what I’ve been working on!
 
 ---
 
