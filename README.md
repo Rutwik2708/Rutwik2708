@@ -12,7 +12,7 @@ Let’s connect to chat about **new opportunities** or simply exchange ideas in 
 Here are some of my key projects:
 
 - [**Voices Unheard**](https://github.com/Rutwik2708/sustainable-az-spark-challenge) (Tech Stack: AWS (EC2, RDS), Java, SpringBoot, ReactJS, D3.js, CohereAI )  
-  Built as part of the *Arizona Sustainability Spark Challenge 2024*, this project, *Voices Unheard*, is an AI-powered platform that empowers individuals affected by mining to voice their concerns, creating a channel for environmental justice and community feedback.
+  Built as part of the *Arizona Sustainability Spark Challenge 2024* (Won 2nd Prize in Hackathon), this project, *Voices Unheard*, is an AI-powered platform that empowers individuals affected by mining to voice their concerns, creating a channel for environmental justice and community feedback.
 
 - [**Visual Analytics for Emergency Responders**](https://github.com/Rutwik2708/Visual-Analytics-for-emergency-responders) (Tech Stack: Python, JavaScript, D3.js)  
   A **Data Visualization Project** developed to support emergency responders in prioritizing response efforts. It offers intuitive and actionable visual insights, allowing responders to make quick, informed decisions in high-stakes scenarios.
