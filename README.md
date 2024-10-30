@@ -7,12 +7,25 @@ I'm a **curious and driven Software Engineer** currently pursuing a **Master's i
 Let’s connect to chat about **new opportunities** or simply exchange ideas in tech!
 
 ---
-### 🔭 Current Projects 
-1. **Dynamic Restocking Fees for E-commerce Products**  
-    *Exploring optimization techniques to dynamically adjust restocking fees for enhanced profitability.*
+### 🔭 Highlighted Projects
 
-2. **Visual Analytics for Emergency Response**  
-    *Building visualization tools to assist emergency responders in decision-making.*
+Here are some of my key projects:
+
+- [**Voices Unheard**](https://github.com/Rutwik2708/sustainable-az-spark-challenge)  
+  Built as part of the *Arizona Sustainability Spark Challenge 2024*, this project, *Voices Unheard*, is an AI-powered platform that empowers individuals affected by mining to voice their concerns, creating a channel for environmental justice and community feedback.
+
+- [**Visual Analytics for Emergency Responders**](https://github.com/Rutwik2708/Visual-Analytics-for-emergency-responders)  
+  A **Data Visualization Project** developed to support emergency responders in prioritizing response efforts. It offers intuitive and actionable visual insights, allowing responders to make quick, informed decisions in high-stakes scenarios.
+
+- [**HackSoda24**](https://github.com/Rutwik2708/HackSoda24)  
+  Designed for e-commerce platforms, this project introduces a dynamic restocking fee algorithm to help sellers on sites like Amazon minimize losses. It intelligently adjusts fees to optimize profitability and inventory management.
+
+- [**MoodBite**](https://github.com/Rutwik2708/MoodBite)  
+  Created for the *Hacks for Humanity Hackathon 2024*, MoodBite uses **Large Language Models (LLMs)** to recommend food items based on users' moods and dietary preferences, merging technology with personalized wellness.
+
+- [**Healthify**](https://github.com/Rutwik2708/Healthify)  
+  A **Health Insurance Claim Processing** system leveraging Blockchain technology to streamline the claims process. Healthify enhances security, transparency, and efficiency for insurance providers and claimants alike.
+
 
 Feel free to check out more of my [Projects](https://github.com/Rutwik2708?tab=repositories) and see what I’ve been working on!
 
