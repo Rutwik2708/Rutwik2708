@@ -17,7 +17,7 @@ Here are some of my key projects:
 - [**Visual Analytics for Emergency Responders**](https://github.com/Rutwik2708/Visual-Analytics-for-emergency-responders) (Tech Stack: Python, JavaScript, D3.js)  
   A **Data Visualization Project** developed to support emergency responders in prioritizing response efforts. It offers intuitive and actionable visual insights, allowing responders to make quick, informed decisions in high-stakes scenarios.
 
-- [**HackSoda24**](https://github.com/Rutwik2708/HackSoda24) **(In Progress)**  (Tech Stack: AWS, Python, Flask, ReactJS)  
+- [**RestockIQ**](https://github.com/Rutwik2708/HackSoda24) **(In Progress)**  (Tech Stack: AWS, Python, Flask, ReactJS)  
   Designed for e-commerce platforms, this project introduces a dynamic restocking fee algorithm to help sellers on sites like Amazon minimize losses. It intelligently adjusts fees to optimize profitability and inventory management.
 
 - [**MoodBite**](https://github.com/Rutwik2708/MoodBite)  (Tech Stack: Python, Flask, ReactJS, onrender, GPT4 )  
