@@ -7,7 +7,7 @@ I'm a **curious and driven Software Engineer** currently pursuing a **Master's i
 Let’s connect to chat about **new opportunities** or simply exchange ideas in tech!
 
 ---
-### 🔭 Highlighted Projects
+### 🔭 Key Projects
 
 Here are some of my key projects:
 
